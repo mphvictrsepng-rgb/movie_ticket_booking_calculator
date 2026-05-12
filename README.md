@@ -1,1 +1,3 @@
 # movie_ticket_booking_calculator
+
+A simple Python script that calculates the final price of a movie ticket based on age, seat type, show time, membership status, and weekend pricing. The project demonstrates basic conditional logic, discount handling, and charge calculation for a ticket booking scenario.
